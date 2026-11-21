@@ -4,11 +4,10 @@
   "description": "express middleware app",
   "main": "middleware.js",
   "scripts": {
-
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node middleware.js",
-    "dev": "nodemon middleware.js"
-    },
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
   "keywords": [],
   "author": "Adarsh",
   "license": "ISC",
